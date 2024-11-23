@@ -1,0 +1,2 @@
+# CSCA5642_Week4
+CSCA 5642 RNN Mini Project

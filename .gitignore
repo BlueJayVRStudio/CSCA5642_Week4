@@ -10,6 +10,8 @@ __pycache__/
 /submissions/
 /submissions_threshold/
 
+/embeddings/
+
 ## Jupyter
 /[Vv]env/
 .ipynb_checkpoints
